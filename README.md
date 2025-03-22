@@ -92,7 +92,7 @@ The authors of this tool accept no liability for misuse or any consequences ther
 
 ## Potential Use Cases
 
-This tool can be adapted for various purposes. Here is something ChatGPT suggests:
+This tool can be adapted for various purposes. Here are some suggestions from ChatGPT:
 
 | Use Case | Description |
 |----------|-------------|
