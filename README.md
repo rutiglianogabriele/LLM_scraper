@@ -1,4 +1,4 @@
-# 🔍 Web Scraper with AI 
+# LLM-Guided Site Crawler & Scraper
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-green)
